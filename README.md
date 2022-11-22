@@ -2,6 +2,8 @@
 Here's a link to VidTube that is inspired by youtube!
 https://beth325.github.io/VidTube/ 
 
+Demo Video: 
+
 This website allows users to click on a video that is played, currently it is just the first one but looking to advance and create more features in this application. 
 
 
